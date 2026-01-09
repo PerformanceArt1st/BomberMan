@@ -5,3 +5,4 @@ ashalet: https://github.com/Danila-Skiba/Machine-Learning/blob/StreamLit_project
 ogo: https://github.com/zse7/programming_workshop/blob/main/course_3_1/lab_2.ipynb
 
 sait_API: https://ml-ekz.vercel.app/
+sk-proj-UZ79LDQbXPaJusARhYdgX4WYNzO4TMaDMq5XS34SS3vLzr0RpcpR7U53kwq 2QDeZHy2aGBW62GT3BlbkFJvxHIIR-msqu1YDBCm_g1WS8NWC0UcKdKkpNlSwQEnPbD5C9r4_1RJ3w7b5YHk5681RocSS9ZoA (без проблела)
